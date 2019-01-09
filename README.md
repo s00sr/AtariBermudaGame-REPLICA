@@ -1,5 +1,5 @@
-# AtariBermudaGame-REPLICA
-I've found there's no any python made replica of this game so this is my contribution to the world, specially UCSP students out there with a mission and without help just like me :)
+##  AtariBermudaGame-REPLICA
+I've found there's no any python-made replica of this game so this is my contribution to the world, specially UCSP students out there with a mission and without help just like me :)
 
 English :
 This is a little help by me for u boys, its very easy to understand because i used a program names pygae_functions made by a genius. 
@@ -14,4 +14,4 @@ aun asi espero que lso ayude y lo aprecien, dejen sus comentarios y recomendacio
 Suerte amigos :)
 
 
-#     CON ESTIMA, s00sr / THANK YOU, s00sr
+# CON ESTIMA, s00sr / THANK YOU, s00sr
