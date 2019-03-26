@@ -2,7 +2,7 @@
 I've found there's no any python-made replica of this game so this is my contribution to the world, specially UCSP students out there with a mission and without help just like me :)
 
 English :
-This is a little help by me for u boys, its very easy to understand because i used a program names pygae_functions made by a genius. 
+This is a little help by me for u boys, its very easy to understand because i used a program names pygame_functions made by a genius. 
 This game is open to enhancements and tips from u all. 
 The genius is: Steve Paget, here its his page if u want to learn more about the program. 
 https://github.com/StevePaget .
