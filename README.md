@@ -10,7 +10,8 @@ Thank you, s00sr
 
 Espanol :
 Aqui les dejo una ayudita, yo se que esta mal y que no se entiende muy bien pero es un trabajo apresurado de unos dias,
-aun asi espero que lso ayude y lo aprecien, dejen sus comentarios y recomendaciones, mejoras, etc. 
+aun asi espero que lso ayude y lo aprecien, dejen sus comentarios y recomendaciones, mejoras, etc. Use un modulo de python, en otras palabras un programa de un genio llamado Steve, dejo aca su pagina, y el codigo esta en el archivo pygame_functions.py 
+https://github.com/StevePaget Chequeen su pagina tiene gran contenido para principiantes.
 Suerte amigos :)
 
 
